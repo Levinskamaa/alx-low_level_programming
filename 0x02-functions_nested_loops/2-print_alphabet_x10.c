@@ -1,5 +1,5 @@
-#include <unistd.h>
-#include "print alphabet"
+#include "main.h"
+
 /**
  * print_alphabet_x10- i will print my alphabets 10 times
  *
